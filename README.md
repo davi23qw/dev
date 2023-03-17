@@ -5,3 +5,6 @@ Olá meu nome é Davi
 3 terceiro item 
 
 * item a 
+* item b
+* item c
+
